@@ -1,0 +1,3 @@
+# Microcontrolador ESP32 como web server 
+
+Nesse projeto usaremos o ESP32 em modo STA (**station**),  operando para que o dispositivo funcione como um cliente wireless. Dessa maneira o microcontrolador será conectada a uma rede WiFi e fornecerá páginas web no endereço dela. Demostração do projeto no blog [ardu.ino.sketch](https://instagram.com/ardu.ino.sketch?utm_source=ig_profile_share&igshid=q0plxzc5k6m4)
